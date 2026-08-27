@@ -7,7 +7,7 @@ on:
       - main
   # Scheduled tasks only run on the main branch.
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '45 */2 * * *'  # Every 2 hours
   workflow_dispatch:
 
 env:
