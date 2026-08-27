@@ -1203,10 +1203,10 @@
   {
    "downloads": 28371326,
    "name": "dbt-extractor",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 28043896,
@@ -1227,10 +1227,10 @@
   {
    "downloads": 27127849,
    "name": "oracledb",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 26758166,
@@ -1259,10 +1259,10 @@
   {
    "downloads": 26104748,
    "name": "tree-sitter-bash",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 25506961,
@@ -8641,5 +8641,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Wednesday, 26 August 2026, 22:02:24 UTC"
+ "last_update": "Thursday, 27 August 2026, 00:26:32 UTC"
 }
