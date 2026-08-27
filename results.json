@@ -939,10 +939,10 @@
   {
    "downloads": 45723143,
    "name": "statsmodels",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 44831557,
@@ -1075,10 +1075,10 @@
   {
    "downloads": 35516275,
    "name": "semgrep",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 34789130,
@@ -1195,10 +1195,10 @@
   {
    "downloads": 29396241,
    "name": "lightgbm",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 28371326,
@@ -1219,10 +1219,10 @@
   {
    "downloads": 27781179,
    "name": "spacy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 27127849,
@@ -1539,10 +1539,10 @@
   {
    "downloads": 16122500,
    "name": "memray",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 16109027,
@@ -1667,10 +1667,10 @@
   {
    "downloads": 12449771,
    "name": "arro3-core",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 12339584,
@@ -1723,10 +1723,10 @@
   {
    "downloads": 12012744,
    "name": "jellyfish",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11978017,
@@ -1739,18 +1739,18 @@
   {
    "downloads": 11792148,
    "name": "pyclipper",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11792032,
    "name": "ciso8601",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11758161,
@@ -8641,5 +8641,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 27 August 2026, 18:01:36 UTC"
+ "last_update": "Thursday, 27 August 2026, 21:01:39 UTC"
 }
