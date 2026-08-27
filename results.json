@@ -1211,10 +1211,10 @@
   {
    "downloads": 28043896,
    "name": "pyproj",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 27781179,
@@ -1235,10 +1235,10 @@
   {
    "downloads": 26758166,
    "name": "jpype1",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 26350683,
@@ -8641,5 +8641,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 27 August 2026, 00:26:32 UTC"
+ "last_update": "Thursday, 27 August 2026, 00:46:32 UTC"
 }
