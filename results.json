@@ -635,10 +635,10 @@
   {
    "downloads": 89348090,
    "name": "onnxruntime",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 86687388,
@@ -1155,10 +1155,10 @@
   {
    "downloads": 30412282,
    "name": "temporalio",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 30203813,
@@ -1515,10 +1515,10 @@
   {
    "downloads": 16838476,
    "name": "clickhouse-driver",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 16838156,
@@ -1555,10 +1555,10 @@
   {
    "downloads": 15986420,
    "name": "textual-speedups",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 15254016,
@@ -8641,5 +8641,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 27 August 2026, 00:46:32 UTC"
+ "last_update": "Thursday, 27 August 2026, 09:31:26 UTC"
 }
