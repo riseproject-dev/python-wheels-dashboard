@@ -323,10 +323,10 @@
   {
    "downloads": 235451583,
    "name": "scikit-learn",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 233042766,
@@ -787,10 +787,10 @@
   {
    "downloads": 63307310,
    "name": "ray",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 62249238,
@@ -1779,10 +1779,10 @@
   {
    "downloads": 11469327,
    "name": "rdkit",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11274418,
@@ -2907,10 +2907,10 @@
   {
    "downloads": 3724369,
    "name": "astropy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3707418,
@@ -8641,5 +8641,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 28 August 2026, 16:23:24 UTC"
+ "last_update": "Friday, 28 August 2026, 19:12:57 UTC"
 }
