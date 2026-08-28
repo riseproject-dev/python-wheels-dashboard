@@ -707,10 +707,10 @@
   {
    "downloads": 75680428,
    "name": "pycryptodomex",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 75071771,
@@ -731,10 +731,10 @@
   {
    "downloads": 73307432,
    "name": "mmh3",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 72449673,
@@ -1811,18 +1811,18 @@
   {
    "downloads": 10957610,
    "name": "tree-sitter-c",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10935462,
    "name": "pyinstrument",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10889451,
@@ -1875,10 +1875,10 @@
   {
    "downloads": 10299257,
    "name": "tree-sitter-rust",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10269759,
@@ -1907,10 +1907,10 @@
   {
    "downloads": 10085579,
    "name": "tree-sitter-go",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10076248,
@@ -1995,10 +1995,10 @@
   {
    "downloads": 9283758,
    "name": "pybcj",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 9126805,
@@ -2011,10 +2011,10 @@
   {
    "downloads": 9073414,
    "name": "inflate64",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 9002642,
@@ -2643,10 +2643,10 @@
   {
    "downloads": 4665512,
    "name": "polyleven",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 4605553,
@@ -8641,5 +8641,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 28 August 2026, 05:45:08 UTC"
+ "last_update": "Friday, 28 August 2026, 06:35:24 UTC"
 }
