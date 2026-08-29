@@ -5,7 +5,7 @@ from utils import (
     save_to_file,
 )
 
-TO_CHART = 360*3
+TO_CHART = 360 * 3
 
 
 def main(to_chart: int = TO_CHART) -> None:
