@@ -3139,9 +3139,9 @@
   {
    "downloads": 3335601,
    "name": "zeroconf",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
    "rise_registry": false
   },
   {
@@ -8641,5 +8641,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 29 August 2026, 21:07:17 UTC"
+ "last_update": "Sunday, 30 August 2026, 05:39:20 UTC"
 }
