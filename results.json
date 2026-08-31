@@ -8393,6 +8393,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 298878,
+   "name": "foundry-local-sdk",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 298625,
    "name": "ale-py",
    "css_class": "warning",
@@ -8631,15 +8639,7 @@
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
-  },
-  {
-   "downloads": 289010,
-   "name": "circt",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
   }
  ],
- "last_update": "Monday, 31 August 2026, 14:18:21 UTC"
+ "last_update": "Monday, 31 August 2026, 23:02:44 UTC"
 }
