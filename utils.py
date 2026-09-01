@@ -284,7 +284,7 @@ def annotate_wheels(packages) -> list[dict]:
 
         return (package, True)
 
-    with ThreadPoolExecutor(max_workers=8) as executor:
+    with ThreadPoolExecutor(max_workers=2) as executor:
         for index, (package, should_keep) in enumerate(executor.map(_handle_package, packages)):
             print(f"{index + 1}/{len(packages)} {package['name']}")
             if should_keep:
