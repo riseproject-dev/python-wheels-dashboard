@@ -1723,10 +1723,10 @@
   {
    "downloads": 13959801,
    "name": "memray",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 13723705,
@@ -1739,10 +1739,10 @@
   {
    "downloads": 13019320,
    "name": "fastparquet",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 12156899,
@@ -1763,10 +1763,10 @@
   {
    "downloads": 12048143,
    "name": "geventhttpclient",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11954987,
@@ -1835,10 +1835,10 @@
   {
    "downloads": 11200392,
    "name": "pyclipper",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11124981,
@@ -1915,18 +1915,18 @@
   {
    "downloads": 10313442,
    "name": "ciso8601",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10195923,
    "name": "python-bidi",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10025163,
@@ -1939,10 +1939,10 @@
   {
    "downloads": 9945604,
    "name": "jellyfish",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 9944278,
@@ -15793,5 +15793,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Tuesday, 01 September 2026, 09:01:53 UTC"
+ "last_update": "Tuesday, 01 September 2026, 09:23:22 UTC"
 }
