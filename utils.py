@@ -3,6 +3,8 @@ import json
 import re
 import requests_cache
 
+from concurrent.futures import ThreadPoolExecutor
+
 
 BASE_URL = "https://pypi.org/pypi"
 RISE_REGISTRY_URL = "https://pypi.riseproject.dev/simple"
@@ -189,13 +191,11 @@ def in_rise_registry(package_name: str) -> bool:
 
 def annotate_wheels(packages) -> list[dict]:
     print("Getting wheel data...")
-    num_packages = len(packages)
-    total = 0
     keep = []
-    for index, package in enumerate(packages):
-        print(f"{index + 1}/{num_packages} {package['name']}")
+
+    def _handle_package(package) -> tuple[dict, bool]:
         if package["name"] in DEPRECATED_PACKAGES | IGNORED_PACKAGES:
-            continue
+            return (package, False)
 
         has_other_binary_wheel = False
         has_riscv64_wheel = False
@@ -205,19 +205,14 @@ def annotate_wheels(packages) -> list[dict]:
         response = SESSION.get(url)
         if response.status_code != 200:
             print(" ! Skipping " + package["name"])
-            continue
+            return (package, False)
 
         data = response.json()
 
         for download in data["urls"]:
             if download["packagetype"] == "bdist_wheel":
-                # The wheel filename is:
-                # {distribution}-{version}(-{build tag})?-{python tag}-{abi tag}-{platform tag}.whl
-                # https://packaging.python.org/en/latest/specifications/binary-distribution-format/#file-name-convention
                 platform_tag = download["filename"].removesuffix(".whl").split("-")[-1]
 
-                # A wheel may be tagged for several platforms at once, for
-                # example manylinux_2_39_riscv64.musllinux_1_2_riscv64
                 if "riscv64" in platform_tag:
                     has_riscv64_wheel = True
                 elif platform_tag != "any":
@@ -240,14 +235,18 @@ def annotate_wheels(packages) -> list[dict]:
                 package["css_class"] = "warning"
                 package["icon"] = "\u2717"  # Ballot X
         else:
-            # Don't show packages with only sdists or pure Python wheels
-            continue
+            return (package, False)
 
         package["riscv64_wheel"] = has_riscv64_wheel
         package["rise_registry"] = in_registry
 
-        keep.append(package)
-        total += 1
+        return (package, True)
+
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        for index, (package, should_keep) in enumerate(executor.map(_handle_package, packages)):
+            print(f"{index + 1}/{len(packages)} {package['name']}")
+            if should_keep:
+                keep.append(package)
 
     return keep
 
