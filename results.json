@@ -1251,9 +1251,9 @@
   {
    "downloads": 26308103,
    "name": "prek",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
    "rise_registry": false
   },
   {
@@ -6483,10 +6483,10 @@
   {
    "downloads": 586276,
    "name": "pyuwsgi",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 585965,
@@ -8641,5 +8641,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Monday, 31 August 2026, 23:02:44 UTC"
+ "last_update": "Tuesday, 01 September 2026, 05:35:56 UTC"
 }
