@@ -187,13 +187,13 @@ def in_rise_registry(package_name: str) -> bool:
     return response.status_code == 200
 
 
-def annotate_wheels(packages, to_chart: int) -> list[dict]:
+def annotate_wheels(packages) -> list[dict]:
     print("Getting wheel data...")
     num_packages = len(packages)
     total = 0
     keep = []
     for index, package in enumerate(packages):
-        print(f"{total + 1}/{to_chart} {index + 1}/{num_packages} {package['name']}")
+        print(f"{index + 1}/{num_packages} {package['name']}")
         if package["name"] in DEPRECATED_PACKAGES | IGNORED_PACKAGES:
             continue
 
@@ -248,8 +248,6 @@ def annotate_wheels(packages, to_chart: int) -> list[dict]:
 
         keep.append(package)
         total += 1
-        if total == to_chart:
-            break
 
     return keep
 

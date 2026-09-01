@@ -45,7 +45,8 @@ def annular_sector_path(start, stop):
     return PATH_TEMPLATE.format(**points)
 
 
-def add_annular_sectors(wheel, packages, total):
+def add_annular_sectors(wheel, packages):
+    total = len(packages)
     for index, result in enumerate(packages):
         sector = et.SubElement(
             wheel,
@@ -71,7 +72,9 @@ def angles(index, total):
     return start, stop
 
 
-def add_fraction(wheel, packages, total):
+def add_fraction(wheel, packages):
+    total = len(packages)
+
     text_attributes = {
         "class": "wheel-text",
         "text-anchor": "middle",
@@ -123,16 +126,16 @@ def add_fraction(wheel, packages, total):
     title.text = percentage
 
 
-def generate_svg_wheel(packages, total):
+def generate_svg_wheel(packages):
     wheel = et.Element(
         "svg",
         viewBox=f"0 0 {2 * CENTER} {2 * CENTER}",
         version="1.1",
         xmlns="http://www.w3.org/2000/svg",
     )
-    add_annular_sectors(wheel, packages, total)
+    add_annular_sectors(wheel, packages)
 
-    add_fraction(wheel, packages, total)
+    add_fraction(wheel, packages)
 
     with open("wheel.svg", "wb") as svg:
         svg.write(HEADERS)
