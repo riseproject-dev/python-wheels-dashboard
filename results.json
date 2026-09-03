@@ -1179,10 +1179,10 @@
   {
    "downloads": 26959436,
    "name": "tree-sitter-c-sharp",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 26936336,
@@ -1379,10 +1379,10 @@
   {
    "downloads": 21797179,
    "name": "tree-sitter-java",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 21543458,
@@ -1451,18 +1451,18 @@
   {
    "downloads": 19789147,
    "name": "prek",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 19466368,
    "name": "tree-sitter-ruby",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 19443847,
@@ -1491,10 +1491,10 @@
   {
    "downloads": 19100988,
    "name": "tree-sitter-php",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 18602871,
@@ -1563,10 +1563,10 @@
   {
    "downloads": 16334477,
    "name": "pi-heif",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 16289606,
@@ -1651,10 +1651,10 @@
   {
    "downloads": 14580653,
    "name": "pyyaml-ft",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 14546899,
@@ -1699,10 +1699,10 @@
   {
    "downloads": 13989229,
    "name": "aiokafka",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 13959801,
@@ -3531,10 +3531,10 @@
   {
    "downloads": 2449862,
    "name": "array-record",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2439983,
@@ -15457,5 +15457,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 03 September 2026, 16:35:46 UTC"
+ "last_update": "Thursday, 03 September 2026, 21:05:54 UTC"
 }
