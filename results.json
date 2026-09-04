@@ -339,10 +339,10 @@
   {
    "downloads": 237001646,
    "name": "grpcio-tools",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 233220449,
@@ -1803,18 +1803,18 @@
   {
    "downloads": 11390807,
    "name": "obstore",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11382871,
    "name": "deptry",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 11200392,
@@ -1859,18 +1859,18 @@
   {
    "downloads": 10969352,
    "name": "aioquic",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10763762,
    "name": "pikepdf",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10451436,
@@ -1883,10 +1883,10 @@
   {
    "downloads": 10438560,
    "name": "cchardet",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10347193,
@@ -1987,10 +1987,10 @@
   {
    "downloads": 9173620,
    "name": "zstd",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 9145659,
@@ -2035,10 +2035,10 @@
   {
    "downloads": 8670332,
    "name": "dependency-injector",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 8641616,
@@ -2051,10 +2051,10 @@
   {
    "downloads": 8443779,
    "name": "tree-sitter-typescript",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7839639,
@@ -2067,10 +2067,10 @@
   {
    "downloads": 7796649,
    "name": "tree-sitter-embedded-template",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7791244,
@@ -2131,10 +2131,10 @@
   {
    "downloads": 7306102,
    "name": "rustworkx",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7229379,
@@ -2147,10 +2147,10 @@
   {
    "downloads": 7078256,
    "name": "jq",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7045806,
@@ -2163,10 +2163,10 @@
   {
    "downloads": 7004014,
    "name": "lru-dict",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7001026,
@@ -2179,10 +2179,10 @@
   {
    "downloads": 6994447,
    "name": "osqp",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6922425,
@@ -15457,5 +15457,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 04 September 2026, 07:20:34 UTC"
+ "last_update": "Friday, 04 September 2026, 08:43:18 UTC"
 }
