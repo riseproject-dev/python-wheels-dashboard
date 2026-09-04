@@ -1691,10 +1691,10 @@
   {
    "downloads": 14151592,
    "name": "cachebox",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 13989229,
@@ -2195,18 +2195,18 @@
   {
    "downloads": 6908481,
    "name": "toons",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6800788,
    "name": "autobahn",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6684953,
@@ -2259,10 +2259,10 @@
   {
    "downloads": 6440211,
    "name": "jsonschema-rs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6433897,
@@ -2355,10 +2355,10 @@
   {
    "downloads": 5717560,
    "name": "pyahocorasick",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 5633880,
@@ -4347,10 +4347,10 @@
   {
    "downloads": 1553036,
    "name": "sparsediffpy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1547704,
@@ -15465,5 +15465,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 04 September 2026, 11:33:38 UTC"
+ "last_update": "Friday, 04 September 2026, 16:30:16 UTC"
 }
