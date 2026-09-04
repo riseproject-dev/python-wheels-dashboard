@@ -2075,18 +2075,18 @@
   {
    "downloads": 7791244,
    "name": "pyrefly",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7627641,
    "name": "pipdeptree",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7594558,
@@ -2155,10 +2155,10 @@
   {
    "downloads": 7045806,
    "name": "ckzg",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 7004014,
@@ -2211,10 +2211,10 @@
   {
    "downloads": 6684953,
    "name": "python-calamine",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6641041,
@@ -2227,10 +2227,10 @@
   {
    "downloads": 6604517,
    "name": "python-crfsuite",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6577173,
@@ -2243,10 +2243,10 @@
   {
    "downloads": 6542768,
    "name": "timezonefinder",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6493702,
@@ -11345,6 +11345,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 137494,
+   "name": "recordclass",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 137313,
    "name": "runai-model-streamer-azure",
    "css_class": "warning",
@@ -15457,5 +15465,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 04 September 2026, 08:43:18 UTC"
+ "last_update": "Friday, 04 September 2026, 11:33:38 UTC"
 }
