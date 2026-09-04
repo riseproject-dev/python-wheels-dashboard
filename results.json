@@ -1347,10 +1347,10 @@
   {
    "downloads": 22514539,
    "name": "opencv-contrib-python",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 22154729,
@@ -1851,10 +1851,10 @@
   {
    "downloads": 11034360,
    "name": "pylsqpack",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 10969352,
@@ -1931,10 +1931,10 @@
   {
    "downloads": 9944278,
    "name": "tree-sitter-yaml",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 9659963,
@@ -15457,5 +15457,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 04 September 2026, 04:47:25 UTC"
+ "last_update": "Friday, 04 September 2026, 07:20:34 UTC"
 }
