@@ -5,6 +5,7 @@ from utils import (
     save_to_file,
 )
 
+
 def main() -> None:
     packages = get_top_packages()
     packages = annotate_wheels(packages)
