@@ -3539,10 +3539,10 @@
   {
    "downloads": 2439983,
    "name": "rerun-sdk",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2436038,
@@ -3651,10 +3651,10 @@
   {
    "downloads": 2320277,
    "name": "impit",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2303111,
@@ -3699,10 +3699,10 @@
   {
    "downloads": 2257788,
    "name": "fasttext-wheel",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2250138,
@@ -4107,10 +4107,10 @@
   {
    "downloads": 1738876,
    "name": "nlopt",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1730219,
@@ -10963,10 +10963,10 @@
   {
    "downloads": 148373,
    "name": "dprint-py",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 148298,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Wednesday, 09 September 2026, 05:04:14 UTC"
+ "last_update": "Wednesday, 09 September 2026, 09:13:17 UTC"
 }
