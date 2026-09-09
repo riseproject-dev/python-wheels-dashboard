@@ -204,7 +204,7 @@ IGNORED_PACKAGES = {
 }
 
 # Keep responses for one hour
-SESSION = requests_cache.CachedSession("requests-cache", expire_after=60 * 60)
+SESSION = requests_cache.CachedSession("requests-cache", expire_after=dt.timedelta(days=30))
 
 
 def get_json_url(package_name):
