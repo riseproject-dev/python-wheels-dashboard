@@ -2875,10 +2875,10 @@
   {
    "downloads": 3721250,
    "name": "mujoco",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 3716878,
@@ -3867,10 +3867,10 @@
   {
    "downloads": 1990534,
    "name": "yggdrasil-engine",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1983226,
@@ -3899,10 +3899,10 @@
   {
    "downloads": 1956062,
    "name": "hogql-parser",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1942469,
@@ -3931,10 +3931,10 @@
   {
    "downloads": 1922358,
    "name": "databento-dbn",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1918811,
@@ -3955,10 +3955,10 @@
   {
    "downloads": 1910731,
    "name": "sherpa-onnx",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1905094,
@@ -4043,10 +4043,10 @@
   {
    "downloads": 1828277,
    "name": "coreforecast",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1821267,
@@ -4059,10 +4059,10 @@
   {
    "downloads": 1793667,
    "name": "sspilib",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1773999,
@@ -4123,10 +4123,10 @@
   {
    "downloads": 1719609,
    "name": "protobuf-py-ext",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1716784,
@@ -4339,10 +4339,10 @@
   {
    "downloads": 1556674,
    "name": "imagecodecs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1553036,
@@ -4451,10 +4451,10 @@
   {
    "downloads": 1432721,
    "name": "coolprop",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1415552,
@@ -4483,10 +4483,10 @@
   {
    "downloads": 1356905,
    "name": "ruptures",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1354572,
@@ -4611,10 +4611,10 @@
   {
    "downloads": 1264215,
    "name": "xgboost-cpu",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1262215,
@@ -4659,10 +4659,10 @@
   {
    "downloads": 1241344,
    "name": "xrootd",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1238300,
@@ -5155,10 +5155,10 @@
   {
    "downloads": 1002651,
    "name": "cmeel-boost",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1002013,
@@ -5531,10 +5531,10 @@
   {
    "downloads": 874862,
    "name": "jsoncompat",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 874733,
@@ -5747,10 +5747,10 @@
   {
    "downloads": 791211,
    "name": "psd-tools",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 788827,
@@ -5771,10 +5771,10 @@
   {
    "downloads": 782016,
    "name": "pymoo",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 770795,
@@ -5827,10 +5827,10 @@
   {
    "downloads": 755945,
    "name": "miniaudio",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 754636,
@@ -6235,10 +6235,10 @@
   {
    "downloads": 605868,
    "name": "flpc",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 602782,
@@ -6675,10 +6675,10 @@
   {
    "downloads": 499725,
    "name": "asv",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 498944,
@@ -6803,10 +6803,10 @@
   {
    "downloads": 472846,
    "name": "tesserocr",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 472300,
@@ -7035,10 +7035,10 @@
   {
    "downloads": 426416,
    "name": "pot",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 424345,
@@ -7203,10 +7203,10 @@
   {
    "downloads": 403619,
    "name": "traits",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 403409,
@@ -8059,10 +8059,10 @@
   {
    "downloads": 315768,
    "name": "pymunk",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 315764,
@@ -10843,10 +10843,10 @@
   {
    "downloads": 155949,
    "name": "vesin",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 155595,
@@ -12299,10 +12299,10 @@
   {
    "downloads": 113548,
    "name": "point-cloud-utils",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 113498,
@@ -12531,10 +12531,10 @@
   {
    "downloads": 110016,
    "name": "rhino3dm",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 109867,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Monday, 14 September 2026, 13:06:38 UTC"
+ "last_update": "Monday, 14 September 2026, 14:57:01 UTC"
 }
