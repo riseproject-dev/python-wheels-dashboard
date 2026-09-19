@@ -3731,10 +3731,10 @@
   {
    "downloads": 2182980,
    "name": "nvtx",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2179659,
@@ -4875,10 +4875,10 @@
   {
    "downloads": 1143296,
    "name": "cvxopt",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1135467,
@@ -9571,10 +9571,10 @@
   {
    "downloads": 205547,
    "name": "json-tools-rs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 205159,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 19 September 2026, 15:58:23 UTC"
+ "last_update": "Saturday, 19 September 2026, 20:50:47 UTC"
 }
