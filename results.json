@@ -2291,10 +2291,10 @@
   {
    "downloads": 6400416,
    "name": "cassandra-driver",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6312105,
@@ -2419,10 +2419,10 @@
   {
    "downloads": 5403120,
    "name": "bitsandbytes",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 5378866,
@@ -3883,10 +3883,10 @@
   {
    "downloads": 1959782,
    "name": "opencv-contrib-python-headless",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1958503,
@@ -9563,10 +9563,10 @@
   {
    "downloads": 205813,
    "name": "fastecdsa",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 205547,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Sunday, 20 September 2026, 05:55:06 UTC"
+ "last_update": "Sunday, 20 September 2026, 11:36:55 UTC"
 }
