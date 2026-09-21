@@ -1099,10 +1099,10 @@
   {
    "downloads": 32166677,
    "name": "av",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 31836134,
@@ -2627,10 +2627,10 @@
   {
    "downloads": 4517496,
    "name": "torchcodec",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 4479807,
@@ -2643,10 +2643,10 @@
   {
    "downloads": 4467134,
    "name": "vllm",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 4466450,
@@ -3291,10 +3291,10 @@
   {
    "downloads": 2935364,
    "name": "coremltools",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2911005,
@@ -3787,10 +3787,10 @@
   {
    "downloads": 2059088,
    "name": "pedalboard",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 2053844,
@@ -4619,10 +4619,10 @@
   {
    "downloads": 1262215,
    "name": "sherpa-onnx-core",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1261199,
@@ -4771,26 +4771,26 @@
   {
    "downloads": 1199525,
    "name": "pulsar-client",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1199463,
    "name": "aioesphomeapi",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1194482,
    "name": "kernels-data",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1184911,
@@ -4891,10 +4891,10 @@
   {
    "downloads": 1132002,
    "name": "oai-statsig-python-core",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1130981,
@@ -4915,10 +4915,10 @@
   {
    "downloads": 1129757,
    "name": "piper-tts",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1127260,
@@ -4947,10 +4947,10 @@
   {
    "downloads": 1109567,
    "name": "qiskit",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1106611,
@@ -5035,10 +5035,10 @@
   {
    "downloads": 1072287,
    "name": "cmsis-pack-manager",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1071897,
@@ -5195,10 +5195,10 @@
   {
    "downloads": 999620,
    "name": "eckitlib",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 996814,
@@ -5371,10 +5371,10 @@
   {
    "downloads": 937439,
    "name": "pymatgen-core",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 929710,
@@ -5483,10 +5483,10 @@
   {
    "downloads": 884617,
    "name": "cmeel-zlib",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 884198,
@@ -5539,10 +5539,10 @@
   {
    "downloads": 874733,
    "name": "cmeel-qhull",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 870765,
@@ -5563,10 +5563,10 @@
   {
    "downloads": 869183,
    "name": "cmeel-console-bridge",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 867758,
@@ -5683,10 +5683,10 @@
   {
    "downloads": 813376,
    "name": "cmeel-tinyxml2",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 809522,
@@ -5803,10 +5803,10 @@
   {
    "downloads": 766378,
    "name": "leidenalg",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 762139,
@@ -5939,10 +5939,10 @@
   {
    "downloads": 713831,
    "name": "cadquery-ocp-novtk",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 713100,
@@ -6155,10 +6155,10 @@
   {
    "downloads": 633108,
    "name": "pygame-ce",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 628747,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Monday, 21 September 2026, 05:08:26 UTC"
+ "last_update": "Monday, 21 September 2026, 13:00:57 UTC"
 }
