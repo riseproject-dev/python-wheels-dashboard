@@ -5203,10 +5203,10 @@
   {
    "downloads": 996814,
    "name": "simpleitk",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 995336,
@@ -6091,10 +6091,10 @@
   {
    "downloads": 656352,
    "name": "couchbase",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 648046,
@@ -6555,10 +6555,10 @@
   {
    "downloads": 515138,
    "name": "rawpy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 513954,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Tuesday, 22 September 2026, 11:51:08 UTC"
+ "last_update": "Tuesday, 22 September 2026, 17:04:21 UTC"
 }
