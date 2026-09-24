@@ -6243,10 +6243,10 @@
   {
    "downloads": 602782,
    "name": "umf",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 598986,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 24 September 2026, 17:20:58 UTC"
+ "last_update": "Thursday, 24 September 2026, 21:37:22 UTC"
 }
