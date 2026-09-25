@@ -4667,10 +4667,10 @@
   {
    "downloads": 1238300,
    "name": "warp-lang",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1238114,
@@ -6699,10 +6699,10 @@
   {
    "downloads": 495271,
    "name": "headroom-ai",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 492821,
@@ -6795,10 +6795,10 @@
   {
    "downloads": 475817,
    "name": "ngrok",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 472846,
@@ -6811,10 +6811,10 @@
   {
    "downloads": 472300,
    "name": "pdf-inspector",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 469971,
@@ -6875,10 +6875,10 @@
   {
    "downloads": 461010,
    "name": "acsylla",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 460351,
@@ -6891,10 +6891,10 @@
   {
    "downloads": 457778,
    "name": "promql-parser",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 456440,
@@ -6907,10 +6907,10 @@
   {
    "downloads": 454715,
    "name": "pocketsphinx",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 453789,
@@ -6947,10 +6947,10 @@
   {
    "downloads": 452520,
    "name": "texterrors",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 449266,
@@ -7059,10 +7059,10 @@
   {
    "downloads": 420210,
    "name": "crosshair-tool",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 420108,
@@ -7235,10 +7235,10 @@
   {
    "downloads": 400161,
    "name": "aplr",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 399449,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 25 September 2026, 17:20:19 UTC"
+ "last_update": "Friday, 25 September 2026, 21:41:45 UTC"
 }
