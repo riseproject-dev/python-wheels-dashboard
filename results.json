@@ -3939,10 +3939,10 @@
   {
    "downloads": 1918811,
    "name": "stpyv8",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1918666,
@@ -6507,10 +6507,10 @@
   {
    "downloads": 524997,
    "name": "onnxsim",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 523182,
@@ -6851,10 +6851,10 @@
   {
    "downloads": 466131,
    "name": "bashkit",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 465834,
@@ -7099,10 +7099,10 @@
   {
    "downloads": 414521,
    "name": "cvc5",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 414339,
@@ -7283,10 +7283,10 @@
   {
    "downloads": 396166,
    "name": "linearmodels",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 395987,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 26 September 2026, 05:09:51 UTC"
+ "last_update": "Saturday, 26 September 2026, 11:35:08 UTC"
 }
