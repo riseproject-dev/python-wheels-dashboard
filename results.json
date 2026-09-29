@@ -8187,10 +8187,10 @@
   {
    "downloads": 306026,
    "name": "restate-sdk",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 305891,
@@ -8395,10 +8395,10 @@
   {
    "downloads": 283021,
    "name": "cohere-melody",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 282484,
@@ -8507,10 +8507,10 @@
   {
    "downloads": 279969,
    "name": "pyicu-wheels",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 279691,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Monday, 28 September 2026, 23:23:27 UTC"
+ "last_update": "Tuesday, 29 September 2026, 05:53:06 UTC"
 }
