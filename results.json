@@ -4251,10 +4251,10 @@
   {
    "downloads": 1638106,
    "name": "openvino",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1638055,
@@ -7851,10 +7851,10 @@
   {
    "downloads": 334381,
    "name": "lalsuite",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 334062,
@@ -8027,10 +8027,10 @@
   {
    "downloads": 317122,
    "name": "ydf",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 317064,
@@ -8387,10 +8387,10 @@
   {
    "downloads": 283688,
    "name": "pynini",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 283021,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Tuesday, 29 September 2026, 13:06:53 UTC"
+ "last_update": "Tuesday, 29 September 2026, 22:24:45 UTC"
 }
