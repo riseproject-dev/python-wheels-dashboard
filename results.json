@@ -6283,10 +6283,10 @@
   {
    "downloads": 585616,
    "name": "clang-tidy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 584583,
@@ -7723,10 +7723,10 @@
   {
    "downloads": 346907,
    "name": "pystack",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 346549,
@@ -7915,10 +7915,10 @@
   {
    "downloads": 331596,
    "name": "runai-model-streamer-gcs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 329224,
@@ -7979,10 +7979,10 @@
   {
    "downloads": 321456,
    "name": "imgui-bundle",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 320903,
@@ -8131,10 +8131,10 @@
   {
    "downloads": 311087,
    "name": "nutpie",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 310376,
@@ -8195,10 +8195,10 @@
   {
    "downloads": 305891,
    "name": "jdk4py",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 305658,
@@ -8307,10 +8307,10 @@
   {
    "downloads": 292452,
    "name": "healpy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 292372,
@@ -8403,10 +8403,10 @@
   {
    "downloads": 282484,
    "name": "spacy-transformers",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 282438,
@@ -15473,5 +15473,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Tuesday, 29 September 2026, 05:53:06 UTC"
+ "last_update": "Tuesday, 29 September 2026, 13:06:53 UTC"
 }
