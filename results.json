@@ -5835,10 +5835,10 @@
   {
    "downloads": 626470,
    "name": "iregexp-check",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 625283,
@@ -7251,10 +7251,10 @@
   {
    "downloads": 327817,
    "name": "adbc-driver-snowflake",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 327763,
@@ -7707,10 +7707,10 @@
   {
    "downloads": 284640,
    "name": "pyoxigraph",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 284210,
@@ -8243,10 +8243,10 @@
   {
    "downloads": 245073,
    "name": "ssh-python",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 244723,
@@ -8587,10 +8587,10 @@
   {
    "downloads": 214179,
    "name": "pylibmagic",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 213849,
@@ -8627,10 +8627,10 @@
   {
    "downloads": 210456,
    "name": "atheris",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 210406,
@@ -9131,10 +9131,10 @@
   {
    "downloads": 184310,
    "name": "kivy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 183845,
@@ -9355,10 +9355,10 @@
   {
    "downloads": 178753,
    "name": "pyjnius",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 177855,
@@ -9875,10 +9875,10 @@
   {
    "downloads": 159242,
    "name": "openimageio",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 159084,
@@ -9915,10 +9915,10 @@
   {
    "downloads": 157993,
    "name": "ale-py",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 157815,
@@ -10955,10 +10955,10 @@
   {
    "downloads": 122137,
    "name": "strict-kwargs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 122132,
@@ -15729,5 +15729,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 01 October 2026, 13:32:01 UTC"
+ "last_update": "Thursday, 01 October 2026, 22:47:41 UTC"
 }
