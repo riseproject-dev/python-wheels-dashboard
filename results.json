@@ -6091,10 +6091,10 @@
   {
    "downloads": 558634,
    "name": "osmium",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 556888,
@@ -15729,5 +15729,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 03 October 2026, 16:31:26 UTC"
+ "last_update": "Saturday, 03 October 2026, 21:28:32 UTC"
 }
