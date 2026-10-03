@@ -7579,10 +7579,10 @@
   {
    "downloads": 295933,
    "name": "portforward",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 294315,
@@ -10179,10 +10179,10 @@
   {
    "downloads": 147165,
    "name": "fiftyone-db",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 146861,
@@ -10363,10 +10363,10 @@
   {
    "downloads": 139678,
    "name": "cargo-zigbuild",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 139581,
@@ -10923,10 +10923,10 @@
   {
    "downloads": 122482,
    "name": "img2table",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 122397,
@@ -15729,5 +15729,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 03 October 2026, 05:28:26 UTC"
+ "last_update": "Saturday, 03 October 2026, 11:50:27 UTC"
 }
