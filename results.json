@@ -15521,6 +15521,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 54334,
+   "name": "aardwolf",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 54300,
    "name": "pysimstring",
    "css_class": "warning",
@@ -15729,5 +15737,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Sunday, 04 October 2026, 12:33:13 UTC"
+ "last_update": "Sunday, 04 October 2026, 21:38:57 UTC"
 }
