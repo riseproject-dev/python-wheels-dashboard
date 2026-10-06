@@ -10787,10 +10787,10 @@
   {
    "downloads": 125917,
    "name": "imgui",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 125886,
@@ -15737,5 +15737,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Tuesday, 06 October 2026, 06:33:05 UTC"
+ "last_update": "Tuesday, 06 October 2026, 18:30:17 UTC"
 }
