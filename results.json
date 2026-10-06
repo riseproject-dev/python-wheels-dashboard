@@ -7683,10 +7683,10 @@
   {
    "downloads": 286312,
    "name": "pyscf",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 285454,
@@ -8107,10 +8107,10 @@
   {
    "downloads": 255147,
    "name": "sqlcipher3",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 253378,
@@ -8635,10 +8635,10 @@
   {
    "downloads": 210406,
    "name": "phonopy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 209383,
@@ -9091,10 +9091,10 @@
   {
    "downloads": 185282,
    "name": "mdanalysis",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 185258,
@@ -9179,10 +9179,10 @@
   {
    "downloads": 182804,
    "name": "scikit-survival",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 182712,
@@ -9291,10 +9291,10 @@
   {
    "downloads": 181401,
    "name": "mdtraj",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 181236,
@@ -9395,10 +9395,10 @@
   {
    "downloads": 177416,
    "name": "openslide-python",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 177302,
@@ -9811,10 +9811,10 @@
   {
    "downloads": 161814,
    "name": "pyfftw",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 161569,
@@ -10267,10 +10267,10 @@
   {
    "downloads": 142513,
    "name": "fastjet",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 142177,
@@ -15737,5 +15737,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Monday, 05 October 2026, 14:58:24 UTC"
+ "last_update": "Tuesday, 06 October 2026, 00:10:24 UTC"
 }
