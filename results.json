@@ -12641,6 +12641,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 86521,
+   "name": "tmol",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 86482,
    "name": "comrak",
    "css_class": "rise",
@@ -15737,5 +15745,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Wednesday, 07 October 2026, 06:21:04 UTC"
+ "last_update": "Wednesday, 07 October 2026, 13:37:34 UTC"
 }
