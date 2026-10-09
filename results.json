@@ -75,10 +75,10 @@
   {
    "downloads": 472045565,
    "name": "multidict",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 463583334,
@@ -163,10 +163,10 @@
   {
    "downloads": 331730354,
    "name": "sqlalchemy",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 319720146,
@@ -247,6 +247,14 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
+  },
+  {
+   "downloads": 240279397,
+   "name": "wcwidth",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
   },
   {
    "downloads": 212349802,
@@ -699,10 +707,10 @@
   {
    "downloads": 56071545,
    "name": "mmh3",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 55118216,
@@ -803,10 +811,10 @@
   {
    "downloads": 42202185,
    "name": "simplejson",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 42145752,
@@ -899,10 +907,10 @@
   {
    "downloads": 33370668,
    "name": "setproctitle",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 33081519,
@@ -923,10 +931,10 @@
   {
    "downloads": 31200307,
    "name": "cramjam",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 31099880,
@@ -979,10 +987,10 @@
   {
    "downloads": 29900743,
    "name": "msgspec",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 29565308,
@@ -1091,10 +1099,10 @@
   {
    "downloads": 25776401,
    "name": "crc32c",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 24967854,
@@ -1451,10 +1459,10 @@
   {
    "downloads": 14211706,
    "name": "pycares",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 14017332,
@@ -2129,6 +2137,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 5519698,
+   "name": "pulp",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 5480041,
    "name": "openai-harmony",
    "css_class": "rise",
@@ -2257,6 +2273,14 @@
    "rise_registry": true
   },
   {
+   "downloads": 4982248,
+   "name": "numpy-financial",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 4901455,
    "name": "tree-sitter-cpp",
    "css_class": "rise",
@@ -2271,6 +2295,14 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
+  },
+  {
+   "downloads": 4808151,
+   "name": "mistral-vibe",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
   },
   {
    "downloads": 4794896,
@@ -2503,6 +2535,14 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
+  },
+  {
+   "downloads": 3735373,
+   "name": "problog",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
   },
   {
    "downloads": 3733662,
@@ -3353,14 +3393,6 @@
    "rise_registry": true
   },
   {
-   "downloads": 2130775,
-   "name": "tokenspeed-mla",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
    "downloads": 2126948,
    "name": "vllm",
    "css_class": "rise",
@@ -3513,14 +3545,6 @@
    "rise_registry": false
   },
   {
-   "downloads": 1922790,
-   "name": "pythonnet",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
    "downloads": 1908873,
    "name": "fastsafetensors",
    "css_class": "rise",
@@ -3619,6 +3643,14 @@
   {
    "downloads": 1781792,
    "name": "chdb-core",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
+   "downloads": 1779651,
+   "name": "kernels",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
@@ -4835,9 +4867,9 @@
   {
    "downloads": 980319,
    "name": "ziglang",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
    "rise_registry": false
   },
   {
@@ -5691,10 +5723,10 @@
   {
    "downloads": 662222,
    "name": "httpr",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 661835,
@@ -5739,10 +5771,10 @@
   {
    "downloads": 653641,
    "name": "pymavlink",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
+   "rise_registry": false
   },
   {
    "downloads": 651134,
@@ -6311,14 +6343,6 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
-  },
-  {
-   "downloads": 503565,
-   "name": "aiooui",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
-   "riscv64_wheel": false,
-   "rise_registry": false
   },
   {
    "downloads": 502236,
@@ -7537,6 +7561,14 @@
    "rise_registry": true
   },
   {
+   "downloads": 300923,
+   "name": "mo-dots",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 300307,
    "name": "tensorrt-cu12-bindings",
    "css_class": "warning",
@@ -8185,14 +8217,6 @@
    "rise_registry": true
   },
   {
-   "downloads": 249005,
-   "name": "hip-python",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
    "downloads": 247767,
    "name": "python-ripgrep",
    "css_class": "warning",
@@ -8527,6 +8551,14 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
+  },
+  {
+   "downloads": 216704,
+   "name": "type-enforced",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
   },
   {
    "downloads": 216453,
@@ -10913,6 +10945,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 122890,
+   "name": "pydivert",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 122669,
    "name": "nmslib",
    "css_class": "warning",
@@ -11931,8 +11971,8 @@
   {
    "downloads": 100394,
    "name": "release-tag",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
@@ -12087,6 +12127,14 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
+  },
+  {
+   "downloads": 96853,
+   "name": "scrapli",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
   },
   {
    "downloads": 96815,
@@ -14003,16 +14051,16 @@
   {
    "downloads": 67486,
    "name": "py-rattler",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
    "rise_registry": false
   },
   {
    "downloads": 67483,
    "name": "neonize",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
@@ -15745,5 +15793,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 09 October 2026, 07:02:04 UTC"
+ "last_update": "Friday, 09 October 2026, 13:30:01 UTC"
 }
