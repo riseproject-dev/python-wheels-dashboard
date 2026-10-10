@@ -5745,6 +5745,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 660428,
+   "name": "tls-client",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 657050,
    "name": "hunter",
    "css_class": "pure-py",
@@ -15785,5 +15793,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 10 October 2026, 12:45:57 UTC"
+ "last_update": "Saturday, 10 October 2026, 21:54:12 UTC"
 }
