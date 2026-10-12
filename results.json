@@ -5393,6 +5393,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 787021,
+   "name": "onecache",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 786124,
    "name": "vispy",
    "css_class": "rise",
@@ -15793,5 +15801,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Monday, 12 October 2026, 06:15:40 UTC"
+ "last_update": "Monday, 12 October 2026, 15:46:39 UTC"
 }
