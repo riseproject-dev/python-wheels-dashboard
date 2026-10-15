@@ -13529,6 +13529,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 73556,
+   "name": "skylos",
+   "css_class": "pure-py",
+   "icon": "\ud83d\udc0d",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 73298,
    "name": "giskardpy-bullet-bindings",
    "css_class": "warning",
@@ -15801,5 +15809,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Wednesday, 14 October 2026, 21:50:13 UTC"
+ "last_update": "Thursday, 15 October 2026, 05:47:06 UTC"
 }
