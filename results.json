@@ -4017,14 +4017,6 @@
    "rise_registry": false
   },
   {
-   "downloads": 1494117,
-   "name": "tensordict",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
    "downloads": 1489205,
    "name": "uharfbuzz",
    "css_class": "rise",
@@ -15809,5 +15801,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 15 October 2026, 05:47:06 UTC"
+ "last_update": "Thursday, 15 October 2026, 11:44:26 UTC"
 }
