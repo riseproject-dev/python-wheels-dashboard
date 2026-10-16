@@ -2329,14 +2329,6 @@
    "rise_registry": true
   },
   {
-   "downloads": 4713694,
-   "name": "ezdxf",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
    "downloads": 4700233,
    "name": "tach",
    "css_class": "rise",
@@ -5211,10 +5203,10 @@
   {
    "downloads": 853933,
    "name": "pedalboard",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 852501,
@@ -15801,5 +15793,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 16 October 2026, 05:35:24 UTC"
+ "last_update": "Friday, 16 October 2026, 11:38:50 UTC"
 }
