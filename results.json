@@ -2329,6 +2329,14 @@
    "rise_registry": true
   },
   {
+   "downloads": 4713694,
+   "name": "ezdxf",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
    "downloads": 4700233,
    "name": "tach",
    "css_class": "rise",
@@ -15793,5 +15801,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 16 October 2026, 11:38:50 UTC"
+ "last_update": "Friday, 16 October 2026, 16:48:37 UTC"
 }
