@@ -19,10 +19,10 @@
   {
    "downloads": 949615436,
    "name": "cffi",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 910851659,
@@ -15801,5 +15801,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 22 October 2026, 17:29:03 UTC"
+ "last_update": "Thursday, 22 October 2026, 21:47:22 UTC"
 }
