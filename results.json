@@ -19,10 +19,10 @@
   {
    "downloads": 949615436,
    "name": "cffi",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 910851659,
@@ -11955,10 +11955,10 @@
   {
    "downloads": 100422,
    "name": "pyxdia",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 100395,
@@ -13027,10 +13027,10 @@
   {
    "downloads": 81045,
    "name": "torchrl",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 80402,
@@ -15801,5 +15801,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Thursday, 22 October 2026, 21:47:22 UTC"
+ "last_update": "Friday, 23 October 2026, 05:59:21 UTC"
 }
