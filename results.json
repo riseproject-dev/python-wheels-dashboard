@@ -9265,14 +9265,6 @@
    "rise_registry": false
   },
   {
-   "downloads": 182057,
-   "name": "winrt-windows-applicationmodel",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
    "downloads": 181922,
    "name": "pyats-aereport",
    "css_class": "warning",
@@ -9399,14 +9391,6 @@
    "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
    "rise_registry": true
-  },
-  {
-   "downloads": 177854,
-   "name": "winrt-windows-services-store",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
   },
   {
    "downloads": 177621,
@@ -15801,5 +15785,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 23 October 2026, 21:48:33 UTC"
+ "last_update": "Saturday, 24 October 2026, 04:50:44 UTC"
 }
