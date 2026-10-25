@@ -13723,9 +13723,9 @@
   {
    "downloads": 71428,
    "name": "silk-python",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
+   "css_class": "success",
+   "icon": "\u2713",
+   "riscv64_wheel": true,
    "rise_registry": false
   },
   {
@@ -15785,5 +15785,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Sunday, 25 October 2026, 05:21:21 UTC"
+ "last_update": "Sunday, 25 October 2026, 11:47:26 UTC"
 }
