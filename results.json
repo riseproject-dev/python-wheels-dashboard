@@ -4731,10 +4731,10 @@
   {
    "downloads": 1063969,
    "name": "fno",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1047652,
@@ -8955,10 +8955,10 @@
   {
    "downloads": 194177,
    "name": "databend-driver",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 192666,
@@ -9755,10 +9755,10 @@
   {
    "downloads": 163488,
    "name": "gsw",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 163231,
@@ -10099,10 +10099,10 @@
   {
    "downloads": 151288,
    "name": "pg0-embedded",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 150530,
@@ -10331,10 +10331,10 @@
   {
    "downloads": 140736,
    "name": "ormar-utils",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 140731,
@@ -11491,10 +11491,10 @@
   {
    "downloads": 110247,
    "name": "regopy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 109922,
@@ -11835,10 +11835,10 @@
   {
    "downloads": 102358,
    "name": "dbmate-bin",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 102292,
@@ -12531,18 +12531,18 @@
   {
    "downloads": 90100,
    "name": "fckitlib",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 89968,
    "name": "sase-core-rs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 89933,
@@ -12811,10 +12811,10 @@
   {
    "downloads": 84674,
    "name": "extractcode-7z",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 84622,
@@ -13019,14 +13019,22 @@
   {
    "downloads": 80402,
    "name": "breez-sdk-spark",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
+   "downloads": 80349,
+   "name": "httpunk",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
    "rise_registry": false
   },
   {
-   "downloads": 80349,
-   "name": "httpunk",
+   "downloads": 80214,
+   "name": "nb-clean",
    "css_class": "warning",
    "icon": "\u2717",
    "riscv64_wheel": false,
@@ -13563,10 +13571,10 @@
   {
    "downloads": 72676,
    "name": "advent-of-code",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 72675,
@@ -15435,10 +15443,10 @@
   {
    "downloads": 55151,
    "name": "arm-pyart",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 55094,
@@ -15785,5 +15793,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Sunday, 25 October 2026, 16:37:53 UTC"
+ "last_update": "Sunday, 25 October 2026, 21:03:18 UTC"
 }
