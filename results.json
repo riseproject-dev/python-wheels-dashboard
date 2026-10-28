@@ -5337,14 +5337,6 @@
    "rise_registry": false
   },
   {
-   "downloads": 802929,
-   "name": "python-qpid-proton",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
    "downloads": 802837,
    "name": "pyfarmhash",
    "css_class": "rise",
@@ -15777,5 +15769,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Tuesday, 27 October 2026, 22:27:19 UTC"
+ "last_update": "Wednesday, 28 October 2026, 06:21:35 UTC"
 }
