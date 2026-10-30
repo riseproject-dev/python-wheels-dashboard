@@ -2187,10 +2187,10 @@
   {
    "downloads": 5359497,
    "name": "tree-sitter-php",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 5344320,
@@ -3539,10 +3539,10 @@
   {
    "downloads": 1908873,
    "name": "fastsafetensors",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1872204,
@@ -4395,10 +4395,10 @@
   {
    "downloads": 1227507,
    "name": "viztracer",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1224655,
@@ -5665,14 +5665,6 @@
    "rise_registry": true
   },
   {
-   "downloads": 684016,
-   "name": "reuse",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
    "downloads": 681689,
    "name": "fastrlock",
    "css_class": "success",
@@ -5971,10 +5963,10 @@
   {
    "downloads": 598867,
    "name": "mwparserfromhell",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 597425,
@@ -8923,10 +8915,10 @@
   {
    "downloads": 195056,
    "name": "cyksuid",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 195025,
@@ -9787,10 +9779,10 @@
   {
    "downloads": 162477,
    "name": "pytest-mergify",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 162176,
@@ -10691,10 +10683,10 @@
   {
    "downloads": 128551,
    "name": "pymongoarrow",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 128360,
@@ -11691,10 +11683,10 @@
   {
    "downloads": 104631,
    "name": "oneagent-sdk",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 104130,
@@ -11851,10 +11843,10 @@
   {
    "downloads": 101648,
    "name": "anki",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 101595,
@@ -15769,5 +15761,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 30 October 2026, 13:12:55 UTC"
+ "last_update": "Friday, 30 October 2026, 22:31:52 UTC"
 }
