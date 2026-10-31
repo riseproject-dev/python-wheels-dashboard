@@ -3081,14 +3081,6 @@
    "rise_registry": true
   },
   {
-   "downloads": 2613549,
-   "name": "zeroconf",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
-   "riscv64_wheel": false,
-   "rise_registry": true
-  },
-  {
    "downloads": 2613431,
    "name": "capstone",
    "css_class": "rise",
@@ -15761,5 +15753,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Friday, 30 October 2026, 22:31:52 UTC"
+ "last_update": "Saturday, 31 October 2026, 06:19:08 UTC"
 }
