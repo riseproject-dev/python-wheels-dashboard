@@ -3081,6 +3081,14 @@
    "rise_registry": true
   },
   {
+   "downloads": 2613549,
+   "name": "zeroconf",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
    "downloads": 2613431,
    "name": "capstone",
    "css_class": "rise",
@@ -13835,9 +13843,9 @@
   {
    "downloads": 69861,
    "name": "ayafileio",
-   "css_class": "success",
-   "icon": "\u2713",
-   "riscv64_wheel": true,
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
    "rise_registry": false
   },
   {
@@ -15753,5 +15761,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 31 October 2026, 06:19:08 UTC"
+ "last_update": "Saturday, 31 October 2026, 12:48:49 UTC"
 }
