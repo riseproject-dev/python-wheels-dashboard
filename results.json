@@ -10185,14 +10185,6 @@
    "rise_registry": true
   },
   {
-   "downloads": 146861,
-   "name": "rapidgzip",
-   "css_class": "warning",
-   "icon": "\u2717",
-   "riscv64_wheel": false,
-   "rise_registry": false
-  },
-  {
    "downloads": 146438,
    "name": "istari-digital-core",
    "css_class": "warning",
@@ -15761,5 +15753,5 @@
    "rise_registry": false
   }
  ],
- "last_update": "Saturday, 31 October 2026, 21:45:56 UTC"
+ "last_update": "Sunday, 01 November 2026, 06:42:30 UTC"
 }
