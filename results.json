@@ -9499,10 +9499,10 @@
   {
    "downloads": 228334,
    "name": "kreuzberg",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 227781,
@@ -16601,5 +16601,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Sunday, 01 November 2026, 18:01:44 UTC"
+ "last_update": "Sunday, 01 November 2026, 22:13:48 UTC"
 }
