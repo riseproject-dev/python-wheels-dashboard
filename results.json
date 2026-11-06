@@ -8169,6 +8169,14 @@
    "rise_registry": true
   },
   {
+   "downloads": 323523,
+   "name": "cryptg",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
+   "riscv64_wheel": false,
+   "rise_registry": true
+  },
+  {
    "downloads": 322487,
    "name": "fno",
    "css_class": "rise",
@@ -16593,5 +16601,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Thursday, 05 November 2026, 20:54:32 UTC"
+ "last_update": "Friday, 06 November 2026, 07:03:59 UTC"
 }
