@@ -5731,10 +5731,10 @@
   {
    "downloads": 844060,
    "name": "aioesphomeapi",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 830691,
@@ -16601,5 +16601,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Sunday, 08 November 2026, 22:18:17 UTC"
+ "last_update": "Monday, 09 November 2026, 06:54:12 UTC"
 }
