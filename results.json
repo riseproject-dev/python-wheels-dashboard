@@ -5731,10 +5731,10 @@
   {
    "downloads": 844060,
    "name": "aioesphomeapi",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 830691,
@@ -11851,10 +11851,10 @@
   {
    "downloads": 131439,
    "name": "pyqir",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 131392,
@@ -16601,5 +16601,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Monday, 09 November 2026, 06:54:12 UTC"
+ "last_update": "Monday, 09 November 2026, 22:32:57 UTC"
 }
