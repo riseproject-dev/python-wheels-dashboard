@@ -5251,10 +5251,10 @@
   {
    "downloads": 1016746,
    "name": "libcoal",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 1016488,
@@ -7435,10 +7435,10 @@
   {
    "downloads": 424259,
    "name": "phidget22",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 422586,
@@ -7699,10 +7699,10 @@
   {
    "downloads": 379759,
    "name": "packmol",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 379687,
@@ -8193,6 +8193,14 @@
    "rise_registry": true
   },
   {
+   "downloads": 320024,
+   "name": "openequivariance",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 319800,
    "name": "blosc",
    "css_class": "rise",
@@ -8243,10 +8251,10 @@
   {
    "downloads": 314566,
    "name": "singlestoredb",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 314174,
@@ -8787,10 +8795,10 @@
   {
    "downloads": 274281,
    "name": "angr",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 274092,
@@ -8875,10 +8883,10 @@
   {
    "downloads": 266599,
    "name": "slipcover",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 266049,
@@ -8995,10 +9003,10 @@
   {
    "downloads": 260751,
    "name": "scout-apm",
-   "css_class": "pure-py",
-   "icon": "\ud83d\udc0d",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 260641,
@@ -9435,10 +9443,10 @@
   {
    "downloads": 231086,
    "name": "alienplatform",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 230974,
@@ -9723,10 +9731,10 @@
   {
    "downloads": 210932,
    "name": "duckdb-cli",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 209802,
@@ -10307,10 +10315,10 @@
   {
    "downloads": 186299,
    "name": "jina",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 186265,
@@ -11267,10 +11275,10 @@
   {
    "downloads": 148484,
    "name": "clickhouse-connect-core",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 147885,
@@ -11811,10 +11819,10 @@
   {
    "downloads": 132430,
    "name": "passagemath-homfly",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 132213,
@@ -12419,10 +12427,10 @@
   {
    "downloads": 118277,
    "name": "dipy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 118001,
@@ -12507,10 +12515,10 @@
   {
    "downloads": 116322,
    "name": "deepfilterlib",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 116099,
@@ -13019,10 +13027,10 @@
   {
    "downloads": 104868,
    "name": "neonize",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 104642,
@@ -14779,10 +14787,10 @@
   {
    "downloads": 81204,
    "name": "cppyy-cling",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 81192,
@@ -15075,10 +15083,10 @@
   {
    "downloads": 78176,
    "name": "wren-core-py",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 77928,
@@ -15155,10 +15163,10 @@
   {
    "downloads": 77272,
    "name": "pylibczirw",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 77175,
@@ -16267,10 +16275,10 @@
   {
    "downloads": 66303,
    "name": "dwave-samplers",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 66188,
@@ -16601,5 +16609,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Wednesday, 11 November 2026, 06:46:46 UTC"
+ "last_update": "Wednesday, 11 November 2026, 19:46:33 UTC"
 }
