@@ -11827,10 +11827,10 @@
   {
    "downloads": 132213,
    "name": "pvxslibs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 131841,
@@ -16609,5 +16609,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Wednesday, 11 November 2026, 19:46:33 UTC"
+ "last_update": "Thursday, 12 November 2026, 07:26:41 UTC"
 }
