@@ -3899,10 +3899,10 @@
   {
    "downloads": 1989114,
    "name": "coreforecast",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 1988752,
@@ -10321,6 +10321,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 185643,
+   "name": "hyperlight-sandbox-python-guest",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 185269,
    "name": "spiceypy",
    "css_class": "rise",
@@ -11747,10 +11755,10 @@
   {
    "downloads": 135103,
    "name": "eclipse-sumo",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 135015,
@@ -11923,10 +11931,10 @@
   {
    "downloads": 129976,
    "name": "tmtools",
-   "css_class": "rise",
-   "icon": "\ud83d\udce6",
+   "css_class": "warning",
+   "icon": "\u2717",
    "riscv64_wheel": false,
-   "rise_registry": true
+   "rise_registry": false
   },
   {
    "downloads": 129887,
@@ -16601,5 +16609,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Friday, 13 November 2026, 19:54:13 UTC"
+ "last_update": "Saturday, 14 November 2026, 06:45:29 UTC"
 }
