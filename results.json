@@ -7755,10 +7755,10 @@
   {
    "downloads": 368701,
    "name": "py-sr25519-bindings",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 368430,
@@ -8699,10 +8699,10 @@
   {
    "downloads": 278298,
    "name": "nagisa",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 276795,
@@ -13011,10 +13011,10 @@
   {
    "downloads": 104880,
    "name": "blurhash-python",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 104878,
@@ -13179,10 +13179,10 @@
   {
    "downloads": 101561,
    "name": "wntr",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 101150,
@@ -14611,10 +14611,10 @@
   {
    "downloads": 82225,
    "name": "passagemath-mcqd",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 82192,
@@ -15155,10 +15155,10 @@
   {
    "downloads": 77319,
    "name": "passagemath-bliss",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 77272,
@@ -16609,5 +16609,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Saturday, 14 November 2026, 22:36:39 UTC"
+ "last_update": "Sunday, 15 November 2026, 06:50:15 UTC"
 }
