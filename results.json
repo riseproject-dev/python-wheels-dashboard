@@ -4297,6 +4297,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 1683913,
+   "name": "databricks",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 1669065,
    "name": "pyslang",
    "css_class": "rise",
@@ -16609,5 +16617,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Wednesday, 18 November 2026, 07:45:45 UTC"
+ "last_update": "Wednesday, 18 November 2026, 20:44:42 UTC"
 }
