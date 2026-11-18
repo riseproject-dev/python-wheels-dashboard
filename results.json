@@ -2147,10 +2147,10 @@
   {
    "downloads": 6624330,
    "name": "ciso8601",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 6614092,
@@ -5283,10 +5283,10 @@
   {
    "downloads": 1011441,
    "name": "mssql-python-rs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 999845,
@@ -6203,10 +6203,10 @@
   {
    "downloads": 680741,
    "name": "tls-client",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 679469,
@@ -6395,10 +6395,10 @@
   {
    "downloads": 621908,
    "name": "nautilus-trader",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 617775,
@@ -7635,10 +7635,10 @@
   {
    "downloads": 390332,
    "name": "pixeltable-pgserver",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 389574,
@@ -7931,10 +7931,10 @@
   {
    "downloads": 343903,
    "name": "marin-iris-native",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 343628,
@@ -8803,10 +8803,10 @@
   {
    "downloads": 274092,
    "name": "pyre2",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 273969,
@@ -9155,10 +9155,10 @@
   {
    "downloads": 249451,
    "name": "daal",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 249365,
@@ -10027,10 +10027,10 @@
   {
    "downloads": 201263,
    "name": "pyscn",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 200239,
@@ -11443,10 +11443,10 @@
   {
    "downloads": 143208,
    "name": "snapper-fmt",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 143194,
@@ -11899,10 +11899,10 @@
   {
    "downloads": 130762,
    "name": "audiostretchy",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 130554,
@@ -12459,10 +12459,10 @@
   {
    "downloads": 117603,
    "name": "docvortex",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 117492,
@@ -12683,10 +12683,10 @@
   {
    "downloads": 113053,
    "name": "packingsolver",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 112815,
@@ -12971,10 +12971,10 @@
   {
    "downloads": 106186,
    "name": "componentize-py",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 106061,
@@ -13507,10 +13507,10 @@
   {
    "downloads": 97024,
    "name": "exp-gateway-native",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 96860,
@@ -14635,10 +14635,10 @@
   {
    "downloads": 82157,
    "name": "tiledb",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 82082,
@@ -14923,10 +14923,10 @@
   {
    "downloads": 79779,
    "name": "netgen-mesher",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 79714,
@@ -15331,10 +15331,10 @@
   {
    "downloads": 75130,
    "name": "scipp",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 75126,
@@ -15939,10 +15939,10 @@
   {
    "downloads": 70315,
    "name": "quicksectx",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 70201,
@@ -16609,5 +16609,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Tuesday, 17 November 2026, 21:06:56 UTC"
+ "last_update": "Wednesday, 18 November 2026, 07:45:45 UTC"
 }
