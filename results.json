@@ -9369,6 +9369,14 @@
    "rise_registry": false
   },
   {
+   "downloads": 236355,
+   "name": "google-tunix",
+   "css_class": "warning",
+   "icon": "\u2717",
+   "riscv64_wheel": false,
+   "rise_registry": false
+  },
+  {
    "downloads": 235225,
    "name": "fastobo",
    "css_class": "rise",
@@ -14523,10 +14531,10 @@
   {
    "downloads": 83417,
    "name": "python-kadmin-rs",
-   "css_class": "warning",
-   "icon": "\u2717",
+   "css_class": "rise",
+   "icon": "\ud83d\udce6",
    "riscv64_wheel": false,
-   "rise_registry": false
+   "rise_registry": true
   },
   {
    "downloads": 83355,
@@ -16625,5 +16633,5 @@
    "rise_registry": true
   }
  ],
- "last_update": "Friday, 20 November 2026, 07:32:44 UTC"
+ "last_update": "Friday, 20 November 2026, 20:33:28 UTC"
 }
